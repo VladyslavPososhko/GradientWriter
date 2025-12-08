@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <PackageId>Colveness.GradientConsole</PackageId>
+	  
+	  <Version>1.0.0</Version>
+
+	  <Authors>Vladslav Pososhko</Authors>
+	  <Company>Colveness</Company>
+
+	  <Description>Easy library to set the beautiful gradient console output.</Description>
+	  
+	  <PackageTags>console;color;terminal;cli;output;text-formatting;helper</PackageTags>
+
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
